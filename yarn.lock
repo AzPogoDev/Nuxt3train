@@ -569,6 +569,18 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
+"@splinetool/react-spline@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@splinetool/react-spline/-/react-spline-2.0.0.tgz#6ac56de3030ec4166d8f65588e6f82f505e05439"
+  integrity sha512-lfB18x1/o75v81Sw6aGP2x0amFb7iYN/J06aJ7k5tit8IfGQ2a+QFO18Bd3g/RjvBLQqRJhh8KTVwFGqTSIxqQ==
+
+"@splinetool/runtime@^0.9.25":
+  version "0.9.25"
+  resolved "https://registry.yarnpkg.com/@splinetool/runtime/-/runtime-0.9.25.tgz#278b1e4dfbd1d1adb18214bfd4afbd302052b186"
+  integrity sha512-L/zEwPK1JfTfnhJEWAXantCkvtvT8mS7vkHbjlYXktjsRVWjdDOUrFSu0YzQsCAXeRMYsHvFvvYw9Q0ExIgNDA==
+  dependencies:
+    on-change "^4.0.0"
+
 "@trysound/sax@0.2.0":
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
@@ -3611,6 +3623,11 @@ ohmyfetch@^0.3.1:
     destr "^1.1.0"
     node-fetch "^2.6.1"
     ufo "^0.7.9"
+
+on-change@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/on-change/-/on-change-4.0.0.tgz#26570babb7170f28be5ea0ba00a284a5a343a472"
+  integrity sha512-PTu7C9Jsz4b+sNMDpH0eZFTr7uxdOtoDWRnhaVNK50bgrrnW5nvbWI0jm5DG9qOoTnIhBzE9xoKVFPD9xgtbdg==
 
 on-finished@~2.3.0:
   version "2.3.0"

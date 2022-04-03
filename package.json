@@ -7,5 +7,9 @@
   },
   "devDependencies": {
     "nuxt3": "latest"
+  },
+  "dependencies": {
+    "@splinetool/react-spline": "^2.0.0",
+    "@splinetool/runtime": "^0.9.25"
   }
 }
